@@ -4,7 +4,7 @@ import herobg from "../../img/Page-Header-bg.png"
 
 const Header = () => {
   return (
-    <div className=" relative  pt-36 pb-16 md:pb-32 md:pt-52  overflow-hidden">
+    <div className=" relative  py-16 md:py-36   overflow-hidden">
       <img
         className="absolute top-0 left-0  z-[-10] right-0 w-full h-full"
         src={herobg}
